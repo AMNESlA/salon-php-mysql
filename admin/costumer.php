@@ -119,7 +119,7 @@ if (!isset($_SESSION["user"])) {
                                             $re = mysqli_query($con, $sql);
                                             while ($row = mysqli_fetch_array($re)) {
 
-                                                $id = $row['id'];
+                                                $id = $row['id_cust'];
 
                                                 if ($id % 2 == 1) {
                                                     echo "<tr class='gradeC'>
