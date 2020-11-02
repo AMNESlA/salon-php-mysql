@@ -1,4 +1,4 @@
 <?php
-$con = mysqli_connect("localhost","root","","salon") or die(mysql_error());
+$con = mysqli_connect("localhost","root","","salon_a") or die(mysql_error());
 
 ?>
