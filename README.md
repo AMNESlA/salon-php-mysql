@@ -14,23 +14,3 @@ Also used much of Bootstrap, HTML, CSS and PHP while modifying Frontend.
 5) Open web browser url 
 _http://localhost/salon_.
 
-**ISSUES**
-
-Please report ALL issues on our official pages below:
-
-
-**FEEDBACK**
-
-Please send feedback to:
-
-_tim.fabritius@myy.haaga-helia.fi_
-
-or report them as issue on Github
-
-We don't have database host yet but we will take it soon!
-
-
-**CREDITS**
-
-Thanks Viththiyakaran Nadarajah for template.
-https://www.youtube.com/watch?v=MxOZ6AfcUeU&t=1s
